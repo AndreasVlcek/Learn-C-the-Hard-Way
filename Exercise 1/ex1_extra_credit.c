@@ -14,7 +14,7 @@ int main(int argc, char *argv[])
 	printf("Can I have %s?\n", strings);
 	printf("\tDoes this tab?\n");
 	printf("What is this doing?\a\n");
-	printf("Can I beep\a\a\a\a\a\a\a\a\a\a\a\n");
+	printf("Can I beep?\a\a\a\a\a\a\a\a\a\a\a\n");
 	
 	return 0;
 } 
